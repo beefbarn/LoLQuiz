@@ -6,10 +6,15 @@
     width: 140px;
     height: 40px;
     margin: 0, auto;
+    background-color: lightpink;
 }
 
 .bigger-box {
     width: 220px;
     height: 60px;
     margin: 0, auto;
+}
+
+body {
+    background-color: lightgray;
 }

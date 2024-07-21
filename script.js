@@ -116,9 +116,9 @@ const nextQuestion = (qNum) => {
                 } else {
                     finalRecs.push(` or ${lanes[i]}`);
                 }
-                if (i === 4) {
-                    finalRecs.push('!')
-                }
+            }
+            if (i === 4) {
+                finalRecs.push('!')
             }
             console.log('Recs is ' + finalRecs);
         }
