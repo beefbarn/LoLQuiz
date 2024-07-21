@@ -1,0 +1,15 @@
+.centered {
+    text-align: center;
+}
+
+.centered-block {
+    width: 140px;
+    height: 40px;
+    margin: 0, auto;
+}
+
+.bigger-box {
+    width: 220px;
+    height: 60px;
+    margin: 0, auto;
+}
