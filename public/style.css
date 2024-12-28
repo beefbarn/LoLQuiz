@@ -1,0 +1,29 @@
+.centered {
+    text-align: center;
+}
+
+.centered-block {
+    width: 140px;
+    height: 40px;
+    margin: 0, auto;
+    background-color: lightpink;
+}
+
+.bigger-box {
+    width: 220px;
+    height: 60px;
+    margin: 0, auto;
+}
+
+body {
+    background-color: lightgray;
+}
+
+.p-rank {
+	font-family: Gill Sans, Verdana;
+	font-size: 11px;
+	line-height: 14px;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	font-weight: bold;
+}
